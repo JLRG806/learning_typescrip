@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/1 - Language types.md",
+                "file": "2 - Basic Types/1 - Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/1 - Language types.md",
+                "file": "2 - Basic Types/1 - Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction/1 - Language types.md",
+                "file": "2 - Basic Types/1 - Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction/1 - Language types.md"
+                "file": "2 - Basic Types/1 - Types.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76f3ea1090d7a9d7",
+  "active": "b5c26a934f87875a",
   "lastOpenFiles": [
+    "1 - Introduction/1 - Language types.md",
+    "2 - Basic Types/1 - Types.md",
+    "2 - Basic Types",
     "Introduction/First Steps.md",
-    "Introduction/1 - Language types.md",
-    "Introduction"
+    "1 - Introduction"
   ]
 }
