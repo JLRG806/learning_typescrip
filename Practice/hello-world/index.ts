@@ -157,7 +157,7 @@ type Product = {
     name: string
 }
 
-const product: Audit & Product = { // In this aproach the object need to have all the properties of the two types.
+const product: Audit & Product = { // In this aproach the object need to have all the properties of the two types, if not an error is shown.
     name: "Shampoo",
     created_at: "13/03/2024",
     modified_at: "13/03/2025"
